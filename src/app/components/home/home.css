@@ -1,0 +1,10 @@
+.main-content {
+  min-height: calc(100vh - 150px);
+  background-image: url(/bg/bg2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
